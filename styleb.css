@@ -1,0 +1,24 @@
+table{
+	font-family:sans-serif;
+	color:black;
+	background:gainsboro;
+}
+body{
+	background:gray;
+}
+h1{
+	font-family:monospaced;
+	font-size:45pt;
+}
+a{
+	background:orange;
+	color:black
+}
+.transfer{
+	background-image: url(history.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+th{
+	background:skyblue;
+}
